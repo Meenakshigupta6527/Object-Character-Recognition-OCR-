@@ -1,0 +1,5 @@
+classes = 1
+train = /content/drive/MyDrive/Custom_OCR/yolo_config/train.txt
+valid = /content/drive/MyDrive/Custom_OCR/yolo_config/valid.txt
+names = /content/drive/MyDrive/Custom_OCR/yolo_config/obj.names
+backup = /content/drive/MyDrive/Custom_OCR/yolo_config/backup/
